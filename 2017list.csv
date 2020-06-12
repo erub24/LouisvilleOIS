@@ -1,0 +1,118 @@
+﻿#,Incident #,Month,Day,Time of Occurrence,Address of incident,Division,Beat,Investigation Type,Case Status,NameS,RaceS,SexS,AgeS,EthnicityS,Weapon,NameO,RaceO,SexO,AgeO,EthnicityO,Years of Service,Lethal Y/N,Narrative,popBox
+,,,,,,,,,,,,,,,,,,,,,,,,
+17-007,80-17-012353,February,11,23:16,1234 Oleanda Avenue,4,3,DEATH INVESTIGATION - LMPD INVOLVED,CLOSED,"William A. Young, Jr.",W,M,32,None,Metal Rod,"Russell Braun, Paige Young, Randall Richardson","W, W, W","M, F, M","31, 28, 34",None,"8,1,1",Y,Investigation Pending,"<p>The Officer(s) involved: Russell Braun, Paige Young, Randall Richardson</p>
+<p>Officer(s) Years of Service: 8,1,1</p>
+<p>Race of Officer(s): White, White, White</p>
+<p>Sex of Officer(s): Male, Female, Male</p>
+<p>Age of Officer(s): 31, 28, 34</p>
+<p><br></p>
+<p>Victim/Suspect Name: William A. Young, Jr.</p>
+<p>Victim/Suspect Age: 32</p>
+<p>Victim/Suspect Race: White</p>
+<p>Victim/Suspect Sex: Male</p>
+<p>Armed? Metal Rod</p>
+<p>Was victim/suspect killed? Yes</p>
+<p><br></p>
+<p>LMPD&#39;s Case File Reports the incident as follows: Investigation Pending</p>"
+17-007,Continued,,,,,,,,,,,,,,,,,,,None,,,,
+,Continued,,,,,,,,,,,,,,,,,,,None,,,,
+17-010,80-17-017334,March,1,11:46,2613  Magazine Street,1,2,SHOOTING INVESTIGATION - LMPD INVOLVED,OPEN,Bruce L. Warrick,B,M,39,None,None,Sarah Stumler,W,F,34,None,8,N,Investigation Pending,"<p>The Officer(s) involved: Sarah Stumler</p>
+<p>Officer(s) Years of Service: 8</p>
+<p>Race of Officer(s): White</p>
+<p>Sex of Officer(s): Female</p>
+<p>Age of Officer(s): 34</p>
+<p><br></p>
+<p>Victim/Suspect Name: Bruce L. Warrick</p>
+<p>Victim/Suspect Age: 39</p>
+<p>Victim/Suspect Race: Black</p>
+<p>Victim/Suspect Sex: Male</p>
+<p>Armed? None</p>
+<p>Was victim/suspect killed? No</p>
+<p><br></p>
+<p>LMPD&#39;s Case File Reports the incident as follows: Investigation Pending</p>"
+17-041,80-17-050040,June,21,0:00,3209 Kemmons Drive,6,3,Assault 1st-Police,OPEN,Unknown,B,M,,None,Handgun,Bradley Shouse,W,M,27,None,4,N,Investigation Pending,"<p>The Officer(s) involved: Bradley Shouse</p>
+<p>Officer(s) Years of Service: 4</p>
+<p>Race of Officer(s): White</p>
+<p>Sex of Officer(s): Male</p>
+<p>Age of Officer(s): 27</p>
+<p><br></p>
+<p>Victim/Suspect Name: Unknown</p>
+<p>Victim/Suspect Age: Empty</p>
+<p>Victim/Suspect Race: Black</p>
+<p>Victim/Suspect Sex: Male</p>
+<p>Armed? Handgun</p>
+<p>Was victim/suspect killed? No</p>
+<p><br></p>
+<p>LMPD&#39;s Case File Reports the incident as follows: Investigation Pending</p>"
+17-051,80-17-063582,August,6,,1500 Rangeland Road,6,2,Assault 1st ,OPEN,"George Mitchell, Calvin Jones","B, B","M, M","19, 19",None,"Handgun, Handgun","David Slovak, Jonathan Haywood","W, B","M, M","31, 41",None,"3,4","N, N",Investigation Pending,"<p>The Officer(s) involved: David Slovak, Jonathan Haywood</p>
+<p>Officer(s) Years of Service: 3,4</p>
+<p>Race of Officer(s): White, Black</p>
+<p>Sex of Officer(s): Male, Male</p>
+<p>Age of Officer(s): 31, 41</p>
+<p><br></p>
+<p>Victim/Suspect Name: George Mitchell, Calvin Jones</p>
+<p>Victim/Suspect Age: 19, 19</p>
+<p>Victim/Suspect Race: Black, Black</p>
+<p>Victim/Suspect Sex: Male, Male</p>
+<p>Armed? Handgun, Handgun</p>
+<p>Was victim/suspect killed? No, No</p>
+<p><br></p>
+<p>LMPD&#39;s Case File Reports the incident as follows: Investigation Pending</p>"
+,Continued,,,0:00,,,,,,,,,,None,,,,,,None,,,,
+17-072,80-17-082356,October,8,22:16,3215 Fern Valley Rd ,7,6,SHOOTING INVESTIGATION - LMPD INVOLVED,OPEN,Corey A. Boykin,B,M,24,None,Handgun,"John Dillon, Nicholas Ulery","W, W","M, M","26, 26",None,"2,1",Y,Investigation Pending,"<p>The Officer(s) involved: John Dillon, Nicholas Ulery</p>
+<p>Officer(s) Years of Service: 2,1</p>
+<p>Race of Officer(s): White, White</p>
+<p>Sex of Officer(s): Male, Male</p>
+<p>Age of Officer(s): 26, 26</p>
+<p><br></p>
+<p>Victim/Suspect Name: Corey A. Boykin</p>
+<p>Victim/Suspect Age: 24</p>
+<p>Victim/Suspect Race: Black</p>
+<p>Victim/Suspect Sex: Male</p>
+<p>Armed? Handgun</p>
+<p>Was victim/suspect killed? Yes</p>
+<p><br></p>
+<p>LMPD&#39;s Case File Reports the incident as follows: Investigation Pending</p>"
+,Continued,,,,,,,,,,,,,,,,,,,None,,,,
+17-076,80-17-085461,October,19,10:58,735 Ziegler Street ,4,2,SHOOTING INVESTIGATION - LMPD INVOLVED,OPEN,Rodriq Buchanan,B,M,21,None,Rifle,Jeffrey Emerich,W,M,28,None,4,N,Investigation Pending,"<p>The Officer(s) involved: Jeffrey Emerich</p>
+<p>Officer(s) Years of Service: 4</p>
+<p>Race of Officer(s): White</p>
+<p>Sex of Officer(s): Male</p>
+<p>Age of Officer(s): 28</p>
+<p><br></p>
+<p>Victim/Suspect Name: Rodriq Buchanan</p>
+<p>Victim/Suspect Age: 21</p>
+<p>Victim/Suspect Race: Black</p>
+<p>Victim/Suspect Sex: Male</p>
+<p>Armed? Rifle</p>
+<p>Was victim/suspect killed? No</p>
+<p><br></p>
+<p>LMPD&#39;s Case File Reports the incident as follows: Investigation Pending</p>"
+17-077,80-17-086201,October,21,1542,10917 Dixie Hwy,3,5,Wanton Endangrerment 1st,OPEN,Jamie Fey,W,M,52,None,Handgun,Sean Bell,W,M,42,None,16,Y,Investigation Pending,"<p>The Officer(s) involved: Sean Bell</p>
+<p>Officer(s) Years of Service: 16</p>
+<p>Race of Officer(s): White</p>
+<p>Sex of Officer(s): Male</p>
+<p>Age of Officer(s): 42</p>
+<p><br></p>
+<p>Victim/Suspect Name: Jamie Fey</p>
+<p>Victim/Suspect Age: 52</p>
+<p>Victim/Suspect Race: White</p>
+<p>Victim/Suspect Sex: Male</p>
+<p>Armed? Handgun</p>
+<p>Was victim/suspect killed? Yes</p>
+<p><br></p>
+<p>LMPD&#39;s Case File Reports the incident as follows: Investigation Pending</p>"
+17-090,80-17-101180,December,13,2047,1234 West Broadway,1,3,SHOOTING INVESTIGATION - LMPD INVOLVED,OPEN,Dominique Hardiman,B,M,24,None,Handgun,Michael Roberson,B,M,38,None,12,Y,Investigation Pending,"<p>The Officer(s) involved: Michael Roberson</p>
+<p>Officer(s) Years of Service: 12</p>
+<p>Race of Officer(s): Black</p>
+<p>Sex of Officer(s): Male</p>
+<p>Age of Officer(s): 38</p>
+<p><br></p>
+<p>Victim/Suspect Name: Dominique Hardiman</p>
+<p>Victim/Suspect Age: 24</p>
+<p>Victim/Suspect Race: Black</p>
+<p>Victim/Suspect Sex: Male</p>
+<p>Armed? Handgun</p>
+<p>Was victim/suspect killed? Yes</p>
+<p><br></p>
+<p>LMPD&#39;s Case File Reports the incident as follows: Investigation Pending</p>"
